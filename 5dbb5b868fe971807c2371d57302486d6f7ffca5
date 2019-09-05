@@ -1,0 +1,1 @@
+{"jobID":"a114ed32-f329-0209-0042-6e0631a0a440","spec":{"type":"policy","cause":{"Message":"","User":"Graham Goldstein \u003cgraham.goldstein@jhc.financial\u003e"},"spec":{"dev:deployment/podinfo":{"add":null,"remove":{"automated":"true"}}}},"result":null}
